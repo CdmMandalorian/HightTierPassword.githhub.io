@@ -27,7 +27,7 @@ function generatePassword() {
         var confirmLength = (prompt("How many characters long, would you like your HighTier password to be?"));
         }  
             alert(`Your password will have ${confirmLength} characters`);{
-                length;
+                
             }
         
             var confirmNumericCharacter = confirm("You Wants Numbers, to develop your HighTier Password");
