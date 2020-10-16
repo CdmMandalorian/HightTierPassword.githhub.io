@@ -58,3 +58,7 @@ THEN the password is either displayed in an alert or written to the page
 [Armando Galindo Portfolio](https://cdmmandalorian.github.io/MResponsive-Portfolio/)
   
 ## Credits:  
+HTML 5     
+CSS     
+Javascript   
+Bootstrap   
