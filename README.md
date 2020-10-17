@@ -55,7 +55,7 @@ THEN the password is either displayed in an alert or written to the page
 
   
 ## Portfolio:  
-[Armando Galindo Portfolio](https://cdmmandalorian.github.io/MResponsive-Portfolio/)
+[Armando Galindo Portfolio](https://cdmmandalorian.github.io/Armando-E-Galindo-Portfolio/)
   
 ## Credits:  
 HTML 5     
